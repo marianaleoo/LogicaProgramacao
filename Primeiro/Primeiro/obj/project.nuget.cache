@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PpoMWvrFQlLRv/QVacyhF6/EF+BHSVqlVsBS4iQu2ixluHHkQGokASSTI11aBvIyKwROe4MXrk7K4X2JGIgSsA==",
+  "dgSpecHash": "Qsj1dpxxqjzJTC940sfdqTSbU+UPeHmpjRfvR3KuKVpOvQA8KYgRsCryORzbUijCgw9+3FC8ALAz5WrfUgCs+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LeoM\\OneDrive - MetLife\\Documentos\\MarianaProjetos\\LogicaProgramacao\\Primeiro\\Primeiro\\Primeiro.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\maria\\OneDrive\\Documentos\\Projetos\\LogicaProgramacao\\Primeiro\\Primeiro\\Primeiro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
