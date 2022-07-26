@@ -1,0 +1,14 @@
+C:\Users\LeoM\OneDrive - MetLife\Documentos\MarianaProjetos\sessao3aula12\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+C:\Users\LeoM\OneDrive - MetLife\Documentos\MarianaProjetos\sessao3aula12\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+C:\Users\LeoM\OneDrive - MetLife\Documentos\MarianaProjetos\sessao3aula12\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+C:\Users\LeoM\OneDrive - MetLife\Documentos\MarianaProjetos\sessao3aula12\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+C:\Users\LeoM\OneDrive - MetLife\Documentos\MarianaProjetos\sessao3aula12\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+C:\Users\LeoM\OneDrive - MetLife\Documentos\MarianaProjetos\sessao3aula12\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Users\LeoM\OneDrive - MetLife\Documentos\MarianaProjetos\sessao3aula12\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.AssemblyReference.cache
+C:\Users\LeoM\OneDrive - MetLife\Documentos\MarianaProjetos\sessao3aula12\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeoM\OneDrive - MetLife\Documentos\MarianaProjetos\sessao3aula12\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+C:\Users\LeoM\OneDrive - MetLife\Documentos\MarianaProjetos\sessao3aula12\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+C:\Users\LeoM\OneDrive - MetLife\Documentos\MarianaProjetos\sessao3aula12\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\LeoM\OneDrive - MetLife\Documentos\MarianaProjetos\sessao3aula12\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+C:\Users\LeoM\OneDrive - MetLife\Documentos\MarianaProjetos\sessao3aula12\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Users\LeoM\OneDrive - MetLife\Documentos\MarianaProjetos\sessao3aula12\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache
